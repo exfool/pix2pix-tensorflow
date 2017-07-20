@@ -11,6 +11,7 @@ RUN apt-get install -y --no-install-recommends \
         cmake \
         git \
         wget \
+        curl \
         libatlas-base-dev \
         libboost-all-dev \
         libgflags-dev \
